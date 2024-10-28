@@ -10,12 +10,11 @@ Assignments for Applied Statistics (Winter 2024)
 
 * README.md
 
-* tasks.ipynb
+* tasks.ipynb - contains 4 tasks
 
-* project.ipynb
+* project.ipynb - contains project
 
-* data folder
-    * 
+* PlantGrowth.csv - dataset for project
 
 ## TASKS LIST OF CONTENTS
 
@@ -46,6 +45,8 @@ Assignments for Applied Statistics (Winter 2024)
 ## PROJECT LIST OF CONTENTS
 
 * PROJECT TITLE: Analysis of PlantGrowth Data Set
+
+* Project Description
 
 * Abstract
 
