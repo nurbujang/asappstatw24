@@ -54,105 +54,37 @@ Assignments for Applied Statistics (Winter 2024)
 
 * 2.0 Methods and Implementation
 
-    * 2.1 
+    * 2.1 Download and save dataset
 
-        * 2.1.1 
+    * 2.2 Describe the data set
 
-            * 2.1.1.1 
+    * 2.3 Describe what a t-test is, how it works, and what the assumptions are
 
-            * 2.1.1.2 
+        * 2.3.1 T-test
 
-        * 2.1.2 
+        * 2.3.2 Assumptions
 
-            * 2.1.2.1 
+        * 2.3.3 How does a t-test work?
 
-            * 2.1.2.2 
-            
-            * 2.1.2.3 
+    * 2.4 Perform a t-test to determine whether there is a significant difference between the two treatment groups trt1 and trt2
 
-    * 2.2 
+        * 2.4.1 Test for Normality with Shapiro-Wilk Test
 
-        * 2.2.1 
+            * 2.4.1.1 QQplot
 
-            * 2.2.1.1 
+            * 2.4.1.2 Shapiro-Wilk Test
 
-            * 2.2.1.2 
-            
-            * 2.2.1.3 
+        * 2.4.2 Test for Equality (Homogeneity) of Variances
 
-            * 2.2.1.4 
+        * 2.4.3 Random Sampling
 
-            * 2.2.1.5 
+        * 2.4.4 Test for Independence
 
-            * 2.2.1.6 
+        * 2.4.5 Independent Two-Sample T-test
 
-            * 2.2.1.7 
+    * 2.5 Perform ANOVA to determine whether there is a significant difference between the three treatment groups ctrl, trt1, and trt2
 
-            * 2.2.1.8 
-
-        * 2.2.2 
-
-            * 2.2.2.1 
-
-            * 2.2.2.2 
-            
-            * 2.2.2.3 
-
-            * 2.2.2.4 
-
-            * 2.2.2.5 25% 
-
-            * 2.2.2.6 50% 
-
-            * 2.2.2.7 75% 
-
-            * 2.2.2.8 
-
-        * 2.2.3 
-
-            * 2.2.3.1 
-
-            * 2.2.3.2 
-            
-            * 2.2.3.3 
-
-            * 2.2.3.4 
-
-            * 2.2.3.5 
-
-            * 2.2.3.6 50% 
-
-            * 2.2.3.7 75% 
-
-            * 2.2.3.8 
-
-        * 2.2.4 
-
-            * 2.2.4.1 
-
-            * 2.2.4.2 
-            
-            * 2.2.4.3 Std 
-
-            * 2.2.4.4 
-
-                * 2.2.4.4.1 
-
-                * 2.2.4.4.2 
-
-            * 2.2.4.5 
-
-            * 2.2.4.6 
-
-            * 2.2.4.7 
-
-            * 2.2.4.8 
-
-    * 2.3 Plots
-
-        * 2.3.1 
-
-        * 2.3.2 Count 
+    * 2.6 Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups
 
 * 3.0 Conclusion
 
