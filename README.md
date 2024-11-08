@@ -62,27 +62,30 @@ Assignments for Applied Statistics (Winter 2024)
 
         * 2.3.1 T-test
 
-        * 2.3.2 Assumptions
+        * 2.3.2 How does a t-test work?
 
-        * 2.3.3 How does a t-test work?
+        * 2.3.3 Assumptions
+
+            * 2.3.3.1 Test for Normality with Shapiro-Wilk Test
+
+                * 2.3.3.1.1 QQplot
+
+                * 2.3.3.1.2 Shapiro-Wilk Test
+
+            * 2.3.3.2 Test for Equality (Homogeneity) of Variances
+
+            * 2.3.3.3 Random Sampling
+
+            * 2.3.3.4 Test for Independence
+
 
     * 2.4 Perform a t-test to determine whether there is a significant difference between the two treatment groups trt1 and trt2
 
-        * 2.4.1 Test for Normality with Shapiro-Wilk Test
-
-            * 2.4.1.1 QQplot
-
-            * 2.4.1.2 Shapiro-Wilk Test
-
-        * 2.4.2 Test for Equality (Homogeneity) of Variances
-
-        * 2.4.3 Random Sampling
-
-        * 2.4.4 Test for Independence
-
-        * 2.4.5 Independent Two-Sample T-test
+        * 2.4.1 Independent Two-Sample T-test
 
     * 2.5 Perform ANOVA to determine whether there is a significant difference between the three treatment groups ctrl, trt1, and trt2
+
+        * 2.5.1 One-way ANOVA
 
     * 2.6 Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups
 
