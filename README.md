@@ -58,6 +58,8 @@ Assignments for Applied Statistics (Winter 2024)
 
     * 2.2 Describe the data set
 
+        * 2.2.1 Visualising the Data
+
     * 2.3 Describe what a t-test is, how it works, and what the assumptions are
 
         * 2.3.1 T-test
@@ -66,18 +68,21 @@ Assignments for Applied Statistics (Winter 2024)
 
         * 2.3.3 Assumptions
 
-            * 2.3.3.1 Test for Normality with Shapiro-Wilk Test
+            * 2.3.3.1 Continuous/Ordinal Data
 
-                * 2.3.3.1.1 QQplot
+            * 2.3.3.2 Sample size
 
-                * 2.3.3.1.2 Shapiro-Wilk Test
+            * 2.3.3.3 Independence and Random Sampling
 
-            * 2.3.3.2 Test for Equality (Homogeneity) of Variances
+            * 2.3.3.4 Homogeneity of Variance
 
-            * 2.3.3.3 Random Sampling
+                * 2.3.3.4.1 Levene's Ttst / Bartlett's Test
 
-            * 2.3.3.4 Test for Independence
+            * 2.3.3.5 Test for Normality with Shapiro-Wilk Test
 
+                * 2.3.3.5.1 QQplot
+
+                * 2.3.3.5.2 Shapiro-Wilk Test
 
     * 2.4 Perform a t-test to determine whether there is a significant difference between the two treatment groups trt1 and trt2
 
