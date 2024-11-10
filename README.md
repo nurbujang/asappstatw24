@@ -58,8 +58,6 @@ Assignments for Applied Statistics (Winter 2024)
 
     * 2.2 Describe the data set
 
-        * 2.2.1 Visualising the Data
-
     * 2.3 Describe what a t-test is, how it works, and what the assumptions are
 
         * 2.3.1 T-test
@@ -68,7 +66,11 @@ Assignments for Applied Statistics (Winter 2024)
 
         * 2.3.3 Assumptions
 
-            * 2.3.3.1 Continuous/Ordinal Data
+            * 2.3.3.1 Continuous Data
+
+                * 2.3.3.1.1 Histogram
+
+                * 2.3.3.1.2 Box Plot
 
             * 2.3.3.2 Sample size
 
