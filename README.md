@@ -2,12 +2,11 @@
 **by Nur Bujang (G00426044@atu.ie)**
 
 ## Overview
-This repository contains the tasks and project for Applied Statistics (Instructor: Dr Ian McLoughlin). 
+This repository contains the tasks and project for module Applied Statistics (Instructor: Dr Ian McLoughlin). 
 
 ## Features
-
 ### tasks.ipynb
-This Jupyter notebook contains 4 tasks, which are Permutations and Combinations, numpy's Normal Distribution, t-Test Calculation and ANOVA. Each of these tasks contains Plan, Methods and Implementation, Conclusion and References.
+This Jupyter notebook contains 4 tasks, which are Permutations and Combinations, numpy's Normal Distribution, t-Test Calculation and ANOVA. Each of these tasks contains Plan, Methods and Implementation, Conclusion and References sections.
 
 ### project.ipynb
 This Jupyter notebook contains the body of work for project "Analysis of plantgrowth data set. This README.md contains the full list of references used in this project. The full list of contents are listed below: 
