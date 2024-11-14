@@ -1,48 +1,16 @@
-# asappstatw24
-Assignments for Applied Statistics (Winter 2024)
+## Assignments for Applied Statistics (Winter 2024)
 **by Nur Bujang (G00426044@atu.ie)**
 
-## REPOSITORY CONTENTS
+## Overview
+This repository contains the tasks and project for Applied Statistics (Instructor: Dr Ian McLoughlin). 
 
-* .gitignore
+## Features
 
-* License
+### tasks.ipynb
+This Jupyter notebook contains 4 tasks, which are Permutations and Combinations, numpy's Normal Distribution, t-Test Calculation and ANOVA. Each of these tasks contains Plan, Methods and Implementation, Conclusion and References.
 
-* README.md
-
-* tasks.ipynb - contains 4 tasks
-
-* project.ipynb - contains project
-
-* PlantGrowth.csv - dataset for project
-
-## TASKS LIST OF CONTENTS
-
-1. Task 1: Permutations and Combinations
-    - Plan
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-2. Task 2: numpy's Normal Distribution
-    - Plan
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-3. Task 3: t-Test Calculation
-    - Plan
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-4. Task 4: ANOVA
-    - Plan
-    - Methods and Implementation
-    - Conclusion
-    - References
-      
-## PROJECT LIST OF CONTENTS
+### project.ipynb
+This Jupyter notebook contains the body of work for project "Analysis of plantgrowth data set. This README.md contains the full list of references used in this project. The full list of contents are listed below: 
 
 * PROJECT TITLE: Analysis of PlantGrowth Data Set
 
@@ -78,11 +46,11 @@ Assignments for Applied Statistics (Winter 2024)
 
             * 2.3.3.4 Homogeneity of Variance
 
-                * 2.3.3.4.1 Levene's Ttst / Bartlett's Test
+                * 2.3.3.4.1 Levene's Test / Bartlett's Test
 
             * 2.3.3.5 Test for Normality with Shapiro-Wilk Test
 
-                * 2.3.3.5.1 QQplot
+                * 2.3.3.5.1 Q-Q Plot
 
                 * 2.3.3.5.2 Shapiro-Wilk Test
 
@@ -106,21 +74,35 @@ Assignments for Applied Statistics (Winter 2024)
 
 Python 3.11.5
 
+## Dependencies
+
+* Python 3.8 or later
+
+* Libraries:
+
+    * `numpy` - for numerical computations
+    * `pandas` - for data manipulation
+    * `matplotlib` - for data visualization
+    * `seaborn` - for data visualization
+    * `scipy` - for statistical tests and distributions
+    * `statsmodels` - for additional statistical models and tests
+
 ## Installation Instructions
+```bash
+
+* conda create --name <envname> --file requirements.txt
 
 * pip install pandas
 
-* pip install pymysql
+* pip install numpy
 
-* pip install plotly
+* pip install seaborn
 
-* pip install plotly-express
+* pip install matplotlib
 
-* conda install scipy matplotlib
+* pip install scipy
 
-* conda install -c conda-forge statsmodels
-
-* conda install -c conda-forge scikit-learn
+* pip install statsmodels
 
 ## Running The Code
 
