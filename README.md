@@ -9,9 +9,9 @@ This repository contains the tasks and project for module Applied Statistics (In
 This Jupyter notebook contains 4 tasks, which are Permutations and Combinations, numpy's Normal Distribution, t-Test Calculation and ANOVA. Each of these tasks contains Plan, Methods and Implementation, Conclusion and References sections.
 
 ### project.ipynb
-This Jupyter notebook contains the body of work for project "Analysis of plantgrowth data set. This README.md contains the full list of references used in this project. The full list of contents are listed below: 
+This Jupyter notebook contains the body of work for project "Analysis of Plantgrowth Data Set". This README.md contains the full list of references used in this project. The full list of contents are listed below: 
 
-* PROJECT TITLE: Analysis of PlantGrowth Data Set
+* PROJECT TITLE: Analysis of Plantgrowth Data Set
 
 * Project Description
 
