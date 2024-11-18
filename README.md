@@ -43,9 +43,7 @@ This Jupyter notebook contains the body of work for project "Analysis of Plantgr
 
             * 2.3.3.3 Independence and Random Sampling
 
-            * 2.3.3.4 Homogeneity of Variance
-
-                * 2.3.3.4.1 Levene's Test / Bartlett's Test
+            * 2.3.3.4 Homogeneity of Variance with Levene's Test
 
             * 2.3.3.5 Test for Normality with Shapiro-Wilk Test
 
@@ -87,6 +85,7 @@ Python 3.11.5
     * `statsmodels` - for additional statistical models and tests
 
 ## Installation Instructions
+
 ```bash
 
 * conda create --name <envname> --file requirements.txt
