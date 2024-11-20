@@ -41,15 +41,13 @@ This Jupyter notebook contains the body of work for project "Analysis of Plantgr
 
             * 2.3.3.2 Sample size
 
-            * 2.3.3.3 Independent Observations
+            * 2.3.3.3 Homogeneity of Variance with Levene's Test
 
-            * 2.3.3.4 Homogeneity of Variance with Levene's Test
+            * 2.3.3.4 Test for Normality with Shapiro-Wilk Test
 
-            * 2.3.3.5 Test for Normality with Shapiro-Wilk Test
+                * 2.3.3.4.1 Q-Q Plot
 
-                * 2.3.3.5.1 Q-Q Plot
-
-                * 2.3.3.5.2 Shapiro-Wilk Test
+                * 2.3.3.4.2 Shapiro-Wilk Test
 
     * 2.4 Perform a t-test to determine whether there is a significant difference between the two treatment groups trt1 and trt2
 
