@@ -41,7 +41,7 @@ This Jupyter notebook contains the body of work for project "Analysis of Plantgr
 
             * 2.3.3.2 Sample size
 
-            * 2.3.3.3 Independence and Random Sampling
+            * 2.3.3.3 Independent Observations
 
             * 2.3.3.4 Homogeneity of Variance with Levene's Test
 
