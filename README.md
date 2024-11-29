@@ -59,6 +59,8 @@ This Jupyter notebook contains the body of work for project "Analysis of Plantgr
 
     * 2.6 Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups
 
+        * 2.6.1 Tukey's HSD
+
 * 3.0 Conclusion
 
 * 4.0 References
