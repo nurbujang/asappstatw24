@@ -1,4 +1,4 @@
-## Assignments for Applied Statistics (Winter 2024)
+# Assignments for Applied Statistics (Winter 2024)**
 **by Nur Bujang (G00426044@atu.ie)**
 
 ## Overview
@@ -84,41 +84,47 @@ Python 3.11.5
     * `scipy` - for statistical tests and distributions
     * `statsmodels` - for additional statistical models and tests
 
-## Installation Instructions
+## Run The Jupyter Notebook in two ways:
 
-```bash
+### 1. Run Locally Using Visual Studio Code and Anaconda
 
-* conda create --name <envname> --file requirements.txt
+#### Prerequisites:
+- Install [Python](https://www.python.org/)
+- Install [Anaconda](https://www.anaconda.com/products/distribution)
+- Install [Visual Studio Code](https://code.visualstudio.com/)
 
-* pip install pandas
+#### Steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nurbujang/asappstatw24.git
+   cd asappstatw24
+   ```
+2. Open the repository folder in Visual Studio Code:
+  - install the Python extension if prompted.
 
-* pip install numpy
+  3. Create a new Anaconda environment (optional but recommended):
+   ```bash
+   conda create -n stats_env python=3.9
+   conda activate stats_env
+   ```
+4. Install the required libraries:
+   ```bash
+    conda create --name <envname> --file requirements.txt
+    pip install pandas numpy seaborn  matplotlib scipy statsmodels
+   ```
+5. Open the Jupyter Notebook:
+   - Install the Jupyter extension in Visual Studio Code if not already installed.
+   - Open `tasks.ipynb` or `project.ipynb` in Visual Studio Code and select the Python kernel associated with your environment.
 
-* pip install seaborn
+### 2. Run Using GitHub Codespaces
 
-* pip install matplotlib
-
-* pip install scipy
-
-* pip install statsmodels
-
-## Running The Code
-
-* Install [Anaconda](https://www.anaconda.com/download)
-
-* Install [Visual Studio Code](https://code.visualstudio.com/) 
-
-* Clone Repository
-
-* Open Repository in Visual Studio Code
-
-## Usage Instructions
-
-* .ipynb extension file
-
-* markdown for narrative text
-
-* plain text for code
+#### Steps:
+1. Click the **Code** button on this repository's main page.
+2. Select **Open with Codespaces**.
+3. If you don't have a Codespace created:
+   - Follow the prompts to set up a new Codespace for this repository.
+4. Once the Codespace is ready:
+   - Open `tasks.ipynb` or `project.ipynb` directly in the integrated Jupyter Notebook environment.
 
 ## Support Information
 
