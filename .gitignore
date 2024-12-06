@@ -163,6 +163,9 @@ cython_debug/
 
 
 ## WINDOWS GITIGNORE
+#####
+# https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+#####
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -191,6 +194,9 @@ $RECYCLE.BIN/
 
 
 ## LINUX GITIGNORE
+#####
+# https://github.com/github/gitignore/blob/main/Global/Linux.gitignore
+#####
 
 *~
 
@@ -208,6 +214,9 @@ $RECYCLE.BIN/
 
 
 ## MACOS GITIGNORE
+#####
+# https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+#####
 
 # General
 .DS_Store
@@ -238,6 +247,9 @@ Temporary Items
 
 
 # VisualStudioCode GITIGNORE
+#####
+# https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+#####
 
 .vscode/*
 !.vscode/settings.json

@@ -1,4 +1,4 @@
-# Assignments for Applied Statistics (Winter 2024)**
+# Assignments for Applied Statistics (Winter 2024)
 **by Nur Bujang (G00426044@atu.ie)**
 
 ## Overview
