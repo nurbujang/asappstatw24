@@ -274,7 +274,7 @@ Python 3.11.5
    cd asappstatw24
    ```
 2. Open the repository folder in Visual Studio Code:
-  - install the Python extension if prompted.
+   - Install the Python extension if prompted.
 
 3. Create a new Anaconda environment (optional but recommended):
    ```bash
