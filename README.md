@@ -2,14 +2,14 @@
 **by Nur Bujang (G00426044@atu.ie)**
 
 ## Overview
-This repository contains the tasks and project for module Applied Statistics (Instructor: Dr Ian McLoughlin). Statistics provide the necessary framework and tools to make sense of data and make informed decisions based on the data. This assessment contains examples of data visualisation tools such as histograms and boxplots to give quick insights into data distributions, relationships and anomalies. It also contains statistical tests such as Student t-test and ANOVA for reliable hypothesis testing, which will be used to guide decision-making processes.
+This repository contains the Applied Statistics module's (Instructor: Dr Ian McLoughlin) tasks and project. Statistics provide the necessary framework and tools to make sense of data and make informed decisions based on it. This assessment contains examples of data visualisation tools such as histograms and boxplots to give quick insights into data distributions, relationships, and anomalies. It also contains statistical tests such as the Student t-test and ANOVA for reliable hypothesis testing, which will be used to guide decision-making processes.
 
 ## Features
 ### tasks.ipynb
-This Jupyter notebook contains 4 tasks, which are Permutations and Combinations, numpy's Normal Distribution, t-Test Calculation and ANOVA. Each of these tasks contains Plan, Methods and Implementation, Conclusion and References sections.
+This Jupyter notebook contains four tasks: Permutations and Combinations, NumPy's Normal Distribution, t-test Calculation, and ANOVA. Each task contains sections on the Plan, Methods and Implementation, Conclusion, and References.
 
 ### project.ipynb
-This Jupyter notebook contains the body of work for project "Analysis of Plantgrowth Dataset". This README.md contains the full list of references used in this project. The full list of contents are listed below: 
+This Jupyter notebook contains the body of work for the project "Analysis of Plantgrowth Dataset". This README.md contains the full list of references used in this project. The full list of contents are listed below: 
 
 * PROJECT TITLE: Analysis of Plantgrowth Dataset
 
