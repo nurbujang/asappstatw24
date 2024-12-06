@@ -241,15 +241,6 @@ Wikipedia Contributors (2024). Pooled variance. [online] Wikipedia. Available at
 
 Zangre, A. (2024). Discrete vs. Continuous Data: What’s the Difference? [online] G2. Available at: https://www.g2.com/articles/discrete-vs-continuous-data#what-is-continuous-data [Accessed 29 Oct. 2024].
 
-
-
-
-
-
-
-
-
-
 ## Technologies Used
 
 Python 3.11.5
@@ -285,7 +276,7 @@ Python 3.11.5
 2. Open the repository folder in Visual Studio Code:
   - install the Python extension if prompted.
 
-  3. Create a new Anaconda environment (optional but recommended):
+3. Create a new Anaconda environment (optional but recommended):
    ```bash
    conda create -n stats_env python=3.9
    conda activate stats_env
