@@ -179,6 +179,8 @@ The SciPy community (2019). Statistical functions (scipy.stats) — SciPy v1.3.3
 
 The SciPy community (2024). shapiro — SciPy v1.15.0.dev Manual. [online] Github.io. Available at: https://scipy.github.io/devdocs/reference/generated/scipy.stats.shapiro.html [Accessed 5 Nov. 2024].
 
+The University of Texas at Austin (n.d.). Paired t-Test. [online] sites.utexas.edu. Available at: https://sites.utexas.edu/sos/guided/inferential/numeric/onecat/2-groups/paired/paired-t/ [Accessed 3 Nov. 2024].
+
 The University of Texas at Austin (n.d.). Two-Sample Independent t-Test. [online] sites.utexas.edu. Available at: https://sites.utexas.edu/sos/guided/inferential/numeric/onecat/2-groups/independent/two-sample-t/ [Accessed 3 Nov. 2024].
 
 Thevapalan, A. (2024). T-test vs. Z-test: When to Use Each. [online] Datacamp.com. Available at: https://www.datacamp.com/tutorial/t-test-vs-z-test [Accessed 2 Nov. 2024].
