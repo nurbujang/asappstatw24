@@ -2,7 +2,7 @@
 **by Nur Bujang (G00426044@atu.ie)**
 
 ## Overview
-This repository contains the Applied Statistics module's (Instructor: Dr Ian McLoughlin) tasks and project. Statistics provide the necessary framework and tools to make sense of data and make informed decisions based on it. This assessment contains examples of data visualisation tools such as histograms and boxplots to give quick insights into data distributions, relationships, and anomalies. It also contains statistical tests such as the Student t-test and ANOVA for reliable hypothesis testing, which will be used to guide decision-making processes.
+This repository contains the Applied Statistics module's (Instructor: Dr Ian McLoughlin) tasks and project. Statistics provide the necessary framework and tools to make sense of data and make informed decisions based on it. This assessment contains examples of data visualisation tools such as histograms and boxplots to give quick insights into data distributions, relationships, and anomalies. It also contains statistical tests such as the Student's t-test and ANOVA for reliable hypothesis testing, which will be used to guide decision-making processes.
 
 ## Features
 ### tasks.ipynb
